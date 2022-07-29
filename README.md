@@ -1,6 +1,6 @@
-- Hi, we are @humanizecrypto - Humanize
-- We are a cryptocurrency trading company specializing in education and support for novice and professional traders based in Dubai - UAE.
-- We exists to humanize automated and cryptocurrencies trading and make it available to everyone.
+ Hi, we are @humanizecrypto - Humanize.
+ We are a cryptocurrency trading company specializing in education and support for novice and professional traders based in Dubai - UAE.
+ We exists to humanize automated and cryptocurrencies trading and make it available to everyone.
 
 - 📫 support@humanizecrypto.com
 - 🚀 Humanize Token - HMT
